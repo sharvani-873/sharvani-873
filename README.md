@@ -21,5 +21,5 @@ I'm constantly learning and improving my skills. Currently, I'm focused on:
 - Tools & Technologies: Git, SQL
 
  📫 How to Reach Me
-- LinkedIn:linkedin.com/in/sharvani-banala
+- LinkedIn: linkedin.com/in/sharvani-banala
 - GitHub: :https://github.com/sharvani-873
