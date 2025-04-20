@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fzflipcoverscreengifs%2Fcomments%2Fxcoy2g%2Fsome_cool_gifs_i_found%2F&psig=AOvVaw3n1XVweOougZcgfoZ-uIcz&ust=1745206362498000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDfkcDW5YwDFQAAAAAdAAAAABAE"  />
+  <img height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fzflipcoverscreengifs%2Fcomments%2Fxcoy2g%2Fsome_cool_gifs_i_found%2F&psig=AOvVaw3n1XVweOougZcgfoZ-uIcz&ust=1745206362498000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDfkcDW5YwDFQAAAAAdAAAAABAE" />
 </div>
 
 ###
